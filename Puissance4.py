@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 10 12:09:29 2020
-Katell GOURLET
-Marion GATINOIS
-Juliette GILLE
-Guillaume ZANCHI 
-TD.O
-"""
 from math import inf as infinity
 import random as rd
 import time
